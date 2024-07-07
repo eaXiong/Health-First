@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
 
-<AnchorPane xmlns="http://javafx.com/javafx"
-            xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.group4.healthfirst.PatientViewController"
-            prefHeight="400.0" prefWidth="600.0">
-
-</AnchorPane>
-
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.group4.healthfirst.PatientViewController">
+   <left>
+      <AnchorPane prefHeight="351.0" prefWidth="137.0" style="-fx-background-color: #7985a3;" BorderPane.alignment="CENTER" />
+   </left>
+   <top>
+      <AnchorPane prefHeight="49.0" prefWidth="600.0" style="-fx-background-image:  linear-gradient(to bottom left, #A39779, #7985a3);" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="20.0" layoutY="16.0" text="Patient Portal" textFill="#555f75">
+               <font>
+                  <Font name="Segoe UI Bold" size="14.0" />
+               </font>
+            </Label>
+         </children></AnchorPane>
+   </top>
+   <center>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #ebebed;" BorderPane.alignment="CENTER">
+         <children>
+             <Button id="button_logout" fx:id="button_logout" layoutX="198.0" layoutY="162.0" mnemonicParsing="false" style="-fx-background-color: #c1c9da;" text="Logout" textFill="#555f75">
+                 <font>
+                     <Font name="Segoe UI Bold" size="14.0" />
+                 </font>
+             </Button>
+             <Label id="label_welcome" fx:id="label_welcome" alignment="CENTER" layoutX="153.0" layoutY="87.0" text="Welcome" textFill="#c1c9da">
+                 <font>
+                     <Font name="Segoe UI Bold Italic" size="36.0" />
+                 </font>
+             </Label>
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>
