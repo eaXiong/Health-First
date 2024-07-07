@@ -135,6 +135,13 @@ public class DatabaseUtilities {
                         if (rs.getString("user_type").equals("patient")) {
                             System.out.println("Patient signed in.");
                             DatabaseUtilities.changeScene(event, "/com/group4/healthfirst/patient-view.fxml", "Health-First Patient View", username);
+                        } else if (rs.getString("user_type").equals("nurse")) {
+                            System.out.println("Nurse signed in.");
+                            DatabaseUtilities.changeScene(event, "/com/group4/healthfirst/nurse-view.fxml", "Health-First Nurse View", username);
+
+                        } else if (rs.getString("user_type").equals("doctor")) {
+                            System.out.println("Doctor signed in.");
+                            DatabaseUtilities.changeScene(event, "/com/group4/healthfirst/doctor-view.fxml", "Health-First Doctor View", username);
                         } else {
                             System.out.println("Dummy signed in.");
                             Alert alert = new Alert(Alert.AlertType.ERROR);

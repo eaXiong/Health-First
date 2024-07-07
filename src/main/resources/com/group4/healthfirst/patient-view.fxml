@@ -2,36 +2,190 @@
 
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
 <?import javafx.scene.text.*?>
 
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.group4.healthfirst.PatientViewController">
    <left>
-      <AnchorPane prefHeight="351.0" prefWidth="137.0" style="-fx-background-color: #7985a3;" BorderPane.alignment="CENTER" />
-   </left>
-   <top>
-      <AnchorPane prefHeight="49.0" prefWidth="600.0" style="-fx-background-image:  linear-gradient(to bottom left, #A39779, #7985a3);" BorderPane.alignment="CENTER">
+      <AnchorPane prefHeight="359.0" prefWidth="125.0" style="-fx-background-color: #7985a3;" BorderPane.alignment="CENTER">
          <children>
-            <Label layoutX="20.0" layoutY="16.0" text="Patient Portal" textFill="#555f75">
+            <VBox alignment="TOP_CENTER" layoutX="1.0" layoutY="14.0" prefHeight="251.0" prefWidth="124.0" spacing="10.0">
+               <children>
+                  <Button fx:id="button_dashboard" layoutX="31.0" layoutY="162.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Dashboard" textFill="#ebebed">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="button_appointments" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Appointments" textFill="#ebebed">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="button_medications" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Medications" textFill="#ebebed">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="button_past_visits" layoutX="24.0" layoutY="66.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Past Visits" textFill="#ebebed">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="button_update_info" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Update Info" textFill="#ebebed">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Button>
+                   <Button fx:id="button_messages" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Messages" textFill="#ebebed">
+                       <font>
+                           <Font name="Segoe UI Bold" size="14.0" />
+                       </font>
+                   </Button>
+               </children>
+            </VBox>
+            <Button id="button_logout" fx:id="button_logout" layoutX="30.0" layoutY="316.0" mnemonicParsing="false" style="-fx-background-color: #c1c9da;" text="Logout" textFill="#555f75">
                <font>
                   <Font name="Segoe UI Bold" size="14.0" />
                </font>
-            </Label>
+            </Button>
+         </children></AnchorPane>
+   </left>
+   <top>
+      <AnchorPane prefHeight="41.0" prefWidth="600.0" style="-fx-background-color:  linear-gradient(to bottom right, #A39779, #7985a3);" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER_LEFT" layoutX="14.0" prefHeight="42.0" prefWidth="345.0" spacing="35.0">
+               <children>
+                  <Label alignment="CENTER" text="Patient Portal" textFill="#ebebed">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Label>
+                   <Label id="label_welcome" fx:id="label_welcome" alignment="BOTTOM_LEFT" text="Welcome, patient">
+                       <font>
+                           <Font name="Segoe UI Bold Italic" size="18.0" />
+                       </font>
+                     <textFill>
+                        <LinearGradient endX="1.0" endY="1.0" startX="0.26066350710900477" startY="1.0">
+                           <stops>
+                              <Stop>
+                                 <color>
+                                    <Color red="0.7568627595901489" green="0.7882353067398071" blue="0.8549019694328308" />
+                                 </color>
+                              </Stop>
+                              <Stop offset="0.007662835249042145">
+                                 <color>
+                                    <Color red="0.7568627595901489" green="0.7882353067398071" blue="0.8549019694328308" />
+                                 </color>
+                              </Stop>
+                              <Stop offset="1.0">
+                                 <color>
+                                    <Color red="0.8549019694328308" green="0.8235294222831726" blue="0.7568627595901489" />
+                                 </color>
+                              </Stop>
+                           </stops>
+                        </LinearGradient>
+                     </textFill>
+                   </Label>
+               </children>
+            </HBox>
          </children></AnchorPane>
    </top>
    <center>
-      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #ebebed;" BorderPane.alignment="CENTER">
+      <StackPane prefHeight="150.0" prefWidth="200.0" BorderPane.alignment="CENTER">
          <children>
-             <Button id="button_logout" fx:id="button_logout" layoutX="198.0" layoutY="162.0" mnemonicParsing="false" style="-fx-background-color: #c1c9da;" text="Logout" textFill="#555f75">
-                 <font>
-                     <Font name="Segoe UI Bold" size="14.0" />
-                 </font>
-             </Button>
-             <Label id="label_welcome" fx:id="label_welcome" alignment="CENTER" layoutX="153.0" layoutY="87.0" text="Welcome" textFill="#c1c9da">
-                 <font>
-                     <Font name="Segoe UI Bold Italic" size="36.0" />
-                 </font>
-             </Label>
+            <AnchorPane fx:id="ap_messages" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Label layoutX="14.0" layoutY="9.0" text="Messages" textFill="#555f75">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Label>
+                  <AnchorPane layoutX="246.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="246.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="ap_update_info" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Label layoutX="14.0" layoutY="9.0" text="Update Info" textFill="#555f75">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Label>
+                  <AnchorPane layoutX="246.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="246.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="ap_past_visits" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Label layoutX="14.0" layoutY="9.0" text="Past Visits" textFill="#555f75">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Label>
+                  <AnchorPane layoutX="246.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="246.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <Label layoutX="14.0" layoutY="9.0" text="Medications" textFill="#555f75">
+                           <font>
+                              <Font name="Segoe UI Bold" size="14.0" />
+                           </font>
+                        </Label>
+                        <AnchorPane layoutX="246.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                        <AnchorPane layoutX="14.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                        <AnchorPane layoutX="14.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                        <AnchorPane layoutX="246.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="ap_medications" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Label layoutX="14.0" layoutY="9.0" text="Medications" textFill="#555f75">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Label>
+                  <AnchorPane layoutX="246.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="246.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="ap_appointments" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Label layoutX="14.0" layoutY="9.0" text="Appointments" textFill="#555f75">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Label>
+                  <AnchorPane layoutX="246.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="246.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+               </children>
+            </AnchorPane>
+            <Pane fx:id="pane_pane" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #ebebed;" />
+            <AnchorPane fx:id="ap_dashboard" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Label layoutX="14.0" layoutY="9.0" text="Dashboard" textFill="#555f75">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </Label>
+                  <AnchorPane layoutX="246.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="35.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="14.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+                  <AnchorPane layoutX="246.0" layoutY="188.0" prefHeight="136.0" prefWidth="215.0" style="-fx-background-color: #c1c9da;" />
+               </children>
+            </AnchorPane>
          </children>
-      </AnchorPane>
+      </StackPane>
    </center>
 </BorderPane>
