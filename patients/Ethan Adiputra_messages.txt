@@ -1,0 +1,4 @@
+Patient: Hello!
+Nurse: Hello, Ethan.
+Doctor: What's up, Ethan?
+Patient: Nothing much.

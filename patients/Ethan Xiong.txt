@@ -1,0 +1,476 @@
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 9999999999
+Address: IDKDKDK
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 999999998
+Address: IDKojko
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 9999999999
+Address: IDKDKDK
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 999999998
+Address: IDKojko
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Weight-Visit1: 99 lbs
+Height-Visit1: 5' 4 
+Body Temperature-Visit1: 95
+Blood Pressure-Visit1: 231
+Known Allergies-Visit1: fjdijf
+Health Concerns-Visit1: sdoaji
+Visit Count: 1
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 9999999999
+Address: IDKDKDK
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 999999998
+Address: IDKojko
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 9999999999
+Address: IDKDKDK
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 999999998
+Address: IDKojko
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Weight-Visit1: 99 lbs
+Height-Visit1: 5' 4 
+Body Temperature-Visit1: 95
+Blood Pressure-Visit1: 231
+Known Allergies-Visit1: fjdijf
+Health Concerns-Visit1: sdoaji
+Visit Count: 1
+
+Weight-Visit2: 99 lbs
+Height-Visit2: 5' 4 
+Body Temperature-Visit2: 95
+Blood Pressure-Visit2: 231
+Known Allergies-Visit2: fjdijf
+Health Concerns-Visit2: sdoaji
+Visit Count: 2
+
+Physical Test Findings: ijijijiiji
+New Prescriptions: ijijijijiijij
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 9999999999
+Address: IDKDKDK
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 999999998
+Address: IDKojko
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 9999999999
+Address: IDKDKDK
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 999999998
+Address: IDKojko
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Weight-Visit1: 99 lbs
+Height-Visit1: 5' 4 
+Body Temperature-Visit1: 95
+Blood Pressure-Visit1: 231
+Known Allergies-Visit1: fjdijf
+Health Concerns-Visit1: sdoaji
+Visit Count: 1
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 9999999999
+Address: IDKDKDK
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 999999998
+Address: IDKojko
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 9999999999
+Address: IDKDKDK
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 999999998
+Address: IDKojko
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Weight-Visit1: 99 lbs
+Height-Visit1: 5' 4 
+Body Temperature-Visit1: 95
+Blood Pressure-Visit1: 231
+Known Allergies-Visit1: fjdijf
+Health Concerns-Visit1: sdoaji
+Visit Count: 1
+
+Weight-Visit2: 99 lbs
+Height-Visit2: 5' 4 
+Body Temperature-Visit2: 95
+Blood Pressure-Visit2: 231
+Known Allergies-Visit2: fjdijf
+Health Concerns-Visit2: sdoaji
+Visit Count: 2
+
+Physical Test Findings: ijijijiiji
+New Prescriptions: ijijijijiijij
+
+Weight-Visit3: 99 lbs
+Height-Visit3: 5' 3 
+Body Temperature-Visit3: jsdjf
+Blood Pressure-Visit3: dsijfi
+Known Allergies-Visit3: disjf
+Health Concerns-Visit3: disjf
+Visit Count: 3
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Weight-Visit1: 99 lbs
+Height-Visit1: 5' 4 
+Body Temperature-Visit1: 95
+Blood Pressure-Visit1: 231
+Known Allergies-Visit1: fjdijf
+Health Concerns-Visit1: sdoaji
+Visit Count: 1
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Weight-Visit1: 99 lbs
+Height-Visit1: 5' 4 
+Body Temperature-Visit1: 95
+Blood Pressure-Visit1: 231
+Known Allergies-Visit1: fjdijf
+Health Concerns-Visit1: sdoaji
+Visit Count: 1
+
+Weight-Visit2: 99 lbs
+Height-Visit2: 5' 4 
+Body Temperature-Visit2: 95
+Blood Pressure-Visit2: 231
+Known Allergies-Visit2: fjdijf
+Health Concerns-Visit2: sdoaji
+Visit Count: 2
+
+Physical Test Findings: ijijijiiji
+New Prescriptions: ijijijijiijij
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Weight-Visit1: 99 lbs
+Height-Visit1: 5' 4 
+Body Temperature-Visit1: 95
+Blood Pressure-Visit1: 231
+Known Allergies-Visit1: fjdijf
+Health Concerns-Visit1: sdoaji
+Visit Count: 1
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Username: Ethan Xiong
+Password: ethanxiong
+PatientID: 44266
+Name: Ethan
+Birthday: 2003-07-10
+Phone: 
+Address: 
+Immunization History: IDFJKDFJI
+Previous Health Issues: SIDJIfidj
+Medications: KFDJFIJF
+
+Weight-Visit1: 99 lbs
+Height-Visit1: 5' 4 
+Body Temperature-Visit1: 95
+Blood Pressure-Visit1: 231
+Known Allergies-Visit1: fjdijf
+Health Concerns-Visit1: sdoaji
+Visit Count: 1
+
+Weight-Visit2: 99 lbs
+Height-Visit2: 5' 4 
+Body Temperature-Visit2: 95
+Blood Pressure-Visit2: 231
+Known Allergies-Visit2: fjdijf
+Health Concerns-Visit2: sdoaji
+Visit Count: 2
+
+Physical Test Findings: ijijijiiji
+New Prescriptions: ijijijijiijij
+
+Weight-Visit3: 99 lbs
+Height-Visit3: 5' 3 
+Body Temperature-Visit3: jsdjf
+Blood Pressure-Visit3: dsijfi
+Known Allergies-Visit3: disjf
+Health Concerns-Visit3: disjf
+Visit Count: 3
+

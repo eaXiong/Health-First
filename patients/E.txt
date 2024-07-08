@@ -1,0 +1,11 @@
+Username: E
+Password: f
+PatientID: 44612
+Name: f
+Birthday: 2024-07-06
+Phone: f
+Address: f
+Immunization History: f
+Previous Health Issues: f
+Medications: f
+

@@ -1,0 +1,39 @@
+Username: ssds
+Password: ssds
+PatientID: 71531
+Name: s
+Birthday: 2024-07-17
+Phone: s
+Address: s
+Immunization History: s
+Previous Health Issues: ss
+Medications: s
+
+Physical Test Findings: s
+New Prescriptions: s
+
+Username: ssds
+Password: ssds
+PatientID: 71531
+Name: s
+Birthday: 2024-07-17
+Phone: s
+Address: s
+Immunization History: s
+Previous Health Issues: ss
+Medications: s
+
+Physical Test Findings: s
+New Prescriptions: s
+
+Weight-Visit1: s
+Height-Visit1: s
+Body Temperature-Visit1: s
+Blood Pressure-Visit1: s
+Known Allergies-Visit1: s
+Health Concerns-Visit1: s
+Visit Count: 1
+
+Physical Test Findings: no you
+New Prescriptions: no you
+

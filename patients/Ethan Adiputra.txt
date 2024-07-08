@@ -1,0 +1,66 @@
+Username: Ethan Adiputra
+Password: ethanadi
+PatientID: 17647
+Name: Ethan
+Birthday: 2024-02-06
+Phone: 992i3
+Address: sdsfadsaf
+Immunization History: adfs
+Previous Health Issues: sadf
+Medications: asdf
+
+Username: Ethan Adiputra
+Password: ethanadi
+PatientID: 17647
+Name: Ethan
+Birthday: 2024-02-06
+Phone: 992i3
+Address: sdsfadsaf
+Immunization History: adfs
+Previous Health Issues: sadf
+Medications: asdf
+
+Weight-Visit1: 95
+Height-Visit1: 989
+Body Temperature-Visit1: wasdfij
+Blood Pressure-Visit1: dsfij
+Known Allergies-Visit1: sdajfij
+Health Concerns-Visit1: saidfjij
+Visit Count: 1
+
+Physical Test Findings: Lorem ipsum dolor sit amet.
+New Prescriptions: Lorem ipsum dolor sit amet
+
+Username: Ethan Adiputra
+Password: ethanadi
+PatientID: 17647
+Name: Ethan
+Birthday: 2024-02-06
+Phone: 992i3
+Address: sdsf
+Immunization History: adfs
+Previous Health Issues: sadf
+Medications: asdf
+
+Username: Ethan Adiputra
+Password: ethanadi
+PatientID: 17647
+Name: Ethan
+Birthday: 2024-02-06
+Phone: 992i3
+Address: sdsf
+Immunization History: adfs
+Previous Health Issues: sadf
+Medications: asdf
+
+Weight-Visit1: 95
+Height-Visit1: 989
+Body Temperature-Visit1: wasdfij
+Blood Pressure-Visit1: dsfij
+Known Allergies-Visit1: sdajfij
+Health Concerns-Visit1: saidfjij
+Visit Count: 1
+
+Physical Test Findings: Lorem ipsum dolor sit amet.
+New Prescriptions: Lorem ipsum dolor sit amet
+

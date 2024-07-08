@@ -1,0 +1,11 @@
+Username: Ethan Adi 
+Password: ethanadi
+PatientID: 84083
+Name: Ethan
+Birthday: 2023-12-11
+Phone: 999
+Address: 999
+Immunization History: asadas
+Previous Health Issues: bdsdas
+Medications: dasdasd
+

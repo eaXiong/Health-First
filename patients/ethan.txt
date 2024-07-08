@@ -1,0 +1,29 @@
+Username: ethan
+Password: ethan
+PatientID: 31257
+Name: f
+Birthday: 2024-07-02
+Phone: f
+Address: f
+Immunization History: f
+Previous Health Issues: f
+Medications: f
+Weight: 1
+Height: 1
+Body Temperature: 1
+Blood Pressure: 1
+Known Allergies: 1
+Health Concerns: 1
+Weight: 2
+Height: 2
+Body Temperature: 2
+Blood Pressure: 2
+Known Allergies: 2
+Health Concerns: 2
+Weight-Visit1: 3
+Height-Visit1: 3
+Body Temperature-Visit1: 3
+Blood Pressure-Visit1: 3
+Known Allergies-Visit1: 3
+Health Concerns-Visit1: 3
+Visit Count: 1

@@ -1,0 +1,11 @@
+Username: iko
+Password: iko
+PatientID: 88576
+Name: d
+Birthday: 2024-07-19
+Phone: dd
+Address: d
+Immunization History: d
+Previous Health Issues: d
+Medications: d
+
